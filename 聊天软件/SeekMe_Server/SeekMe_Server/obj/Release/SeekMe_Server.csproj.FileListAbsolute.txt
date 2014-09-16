@@ -1,0 +1,16 @@
+C:\code\SeekMe_Server\SeekMe_Server\SeekMe_Server\bin\Release\SeekMe_Server.exe
+C:\code\SeekMe_Server\SeekMe_Server\SeekMe_Server\bin\Release\SeekMe_Server.pdb
+C:\code\SeekMe_Server\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.Main.resources
+C:\code\SeekMe_Server\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.Properties.Resources.resources
+C:\code\SeekMe_Server\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.csproj.GenerateResource.Cache
+C:\code\SeekMe_Server\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.exe
+C:\code\SeekMe_Server\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.pdb
+C:\code\SeekMe_Server\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.csprojResolveAssemblyReference.cache
+F:\聊天软件\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.exe
+F:\聊天软件\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.pdb
+F:\聊天软件\SeekMe_Server\SeekMe_Server\bin\Release\SeekMe_Server.exe
+F:\聊天软件\SeekMe_Server\SeekMe_Server\bin\Release\SeekMe_Server.pdb
+F:\聊天软件\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.csprojResolveAssemblyReference.cache
+F:\聊天软件\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.Main.resources
+F:\聊天软件\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.Properties.Resources.resources
+F:\聊天软件\SeekMe_Server\SeekMe_Server\obj\Release\SeekMe_Server.csproj.GenerateResource.Cache
